@@ -10,15 +10,11 @@
 
 - 👯 I'm looking to collaborate on **open source projects**
 
-- 🤝 I'm looking for help with **learning system design**
-
 - 💬 Ask me about **React, Node.js, Web Development**
 
 - 📫 How to reach me **souravsarania2@gmail.com**
 
 - ⚡ Fun fact **I am a monkey**
-
-- 👨‍💻 All of my projects are available at **[https://sourav-portfolio-eight.vercel.app/](https://sourav-portfolio-eight.vercel.app/)**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1hH3EsEIc8ERF2DD43h8YBLAr4XdI85_G/view?usp=drive_link](https://drive.google.com/file/d/1hH3EsEIc8ERF2DD43h8YBLAr4XdI85_G/view?usp=drive_link)**
 
