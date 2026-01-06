@@ -2,7 +2,7 @@
 
 ### A passionate developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChevvyChelios&label=Profile views&color=0e75b6&style=flat" alt="ChevvyChelios" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=ChevvyChelios&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I'm currently working on **Full-stack and cloud computing**
 
